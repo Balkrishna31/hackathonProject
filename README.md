@@ -43,7 +43,7 @@ This project was built to practice:
 This project is hosted using **GitHub Pages**.
 
 You can watch out here: 
-https://bkrishna21.github.io/hackathonProject/
+https://bkrishna21.github.io/MyTask/
 
 ## 📖 Learning Outcomes
 
